@@ -8,12 +8,6 @@
 
     </description>
 
-    <author email="developer@apicloud.com" href="http://www.apicloud.com">
-
-        Developer
-
-    </author>
-
 	<preference name="avm" value="true"/>
 
     <content src="app.json" />
